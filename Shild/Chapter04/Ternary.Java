@@ -1,3 +1,4 @@
+//продемонстрировать применение тернарной операции ?
 public class Ternary {
     public static void main(String args[]) {
         int i, k;
