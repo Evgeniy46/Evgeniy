@@ -11,7 +11,7 @@ public class IfSample {
 
         x=x*2;
         if(x>y) System.out.println("x теперь больше y");
-
+        //"Этот оператор не будет ничего выводить"
         if(x==y) System.out.println("вы не увидите этого");
     }
 }
